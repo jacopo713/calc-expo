@@ -12,10 +12,11 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "ios": {
-      "supportsTablet": true
+  "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jacopo96.calcexpo"
     },
-  "android": {
+    "android": {
       "package": "com.jacopo96.calcexpo",
       "versionCode": 1,
       "adaptiveIcon": {
